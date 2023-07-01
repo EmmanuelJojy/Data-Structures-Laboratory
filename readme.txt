@@ -52,3 +52,7 @@ p25_0912.c - Standard Sorting Algorithms
 
 p26_2812.c - Heap Tree and Sort
 p27_0601.c - Graph implementation and Traversal
+
+
+## Archived Repository
+Notice: It has been decided the repository be archived after long-time inactivity. The repository will be archived on the July 1st, 2023.
